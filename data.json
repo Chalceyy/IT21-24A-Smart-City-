@@ -1,0 +1,30 @@
+[
+    {
+    "name": "Manolo Habal Habal",
+    "title" : "Habal habal station",
+    "description" : "Motorcycle taxi station",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6hJA2eJSEBM3WxB6ePYEVCB41HPZjjUgxQ&s",
+    "lat" : 8.366211084794523, 
+    "lng": 124.86532889209901,
+    "locationType": "Transportation"
+    },
+    {
+    "name": "CC",
+    "title" : "CC grounds",
+    "description" : "Covered court",
+    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "lat" : 8.359990848061994, 
+    "lng": 124.8688520443871,
+    "locationType": "Others"
+    },
+    {
+    "name": "Big Pineapple",
+    "title" : "Wow Big pineapple",
+    "description" : "ITS A BIG PINE APPLE I WANT TO SLICE IT",
+    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "lat" : 8.359990848061994, 
+    "lng": 124.8688520443871,
+    "locationType": "Others"
+    }
+
+]
