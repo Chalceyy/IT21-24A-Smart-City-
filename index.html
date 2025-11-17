@@ -49,10 +49,10 @@
         const markerGroups ={};
         
         const customIcon = L.icon({
-    iconUrl: 'motomarker-removebg-preview.png',
-    iconSize: [70, 80],
+    iconUrl: 'HabalMarker.png',
+    iconSize: [60, 60],
     iconAnchor: [30, 40],
-    popupAnchor: [0, -40]
+    popupAnchor: [10, -40]
 });
         fetch(mapDataUrl)
         .then(response => response.json())
@@ -95,7 +95,10 @@
             L.control.layers(baseMaps,overlayMaps,{collapsed:false}).addTo(map);
         })
         .catch(err => console.error('Error loading JSON', err));
+s
 
+
+        // clarkXregine
     }
 //    shemsssdkjfhdfisdfhbsdjfnbsdvfjsvdfhvdhfvsdjvf
     document.addEventListener("DOMContentLoaded", ()=>{
@@ -104,6 +107,6 @@
  </script>
 
 
-  <script src="script.js"></script>
+
 
 </html>
