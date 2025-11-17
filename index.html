@@ -48,7 +48,12 @@
 
         const markerGroups ={};
         
-        
+        const customIcon = L.icon({
+    iconUrl: 'Clarkmarker.png',
+    iconSize: [80, 80],
+    iconAnchor: [20, 40],
+    popupAnchor: [0, -40]
+});
         fetch(mapDataUrl)
         .then(response => response.json())
         .then(data => {
@@ -61,7 +66,8 @@
                 }
 
                 //Marker and popup
-                const marker = L.marker([pin.lat,pin.lng]).addTo(map);
+                const marker = L.marker([pin.lat, pin.lng], { icon: customIcon }).addTo(map);
+
                 const img = `<img src = '${pin.img}' class = "popup-image">`;
 
                 marker.bindPopup(`${img}<br><b> ${pin.title} </b><br> ${pin.description} <br> ${pin.locationType}`)
@@ -94,10 +100,13 @@ s
 
         // clarkXregine
     }
-
+//    shemsssdkjfhdfisdfhbsdjfnbsdvfjsvdfhvdhfvsdjvf
     document.addEventListener("DOMContentLoaded", ()=>{
-        initMap('campus-map.json');
+        initMap('data.json');
     });
+ </script>
 
-</script>
+
+  <script src="script.js"></script>
+
 </html>
