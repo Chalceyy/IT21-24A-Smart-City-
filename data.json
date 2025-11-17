@@ -25,6 +25,44 @@
     "lat" : 8.366461528639613,  
     "lng": 124.8654576979289,
     "locationType": "Transportation"
+    },
+    {
+    "name": "Terminal Habal-Habal",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
+    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "lat" : 8.36640502585871,   
+    "lng": 124.86453698939394,
+    "locationType": "Transportation"
+    },
+    {
+    "name": "Plaza Habal-Habal",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
+    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "lat" : 8.36778122534093,    
+    "lng": 124.86557791429232,
+    "locationType": "Transportation"
+    },
+    {
+    "name": "Prince Habal-Habal",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
+    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "lat" : 8.367337045833757,     
+    "lng": 124.86708996492982,
+    "locationType": "Transportation"
+    },
+    {
+    "name": "Prince Habal-Habal",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
+    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "lat" : 8.367592460341776,      
+    "lng": 124.8667533477051,
+    "locationType": "Transportation"
     }
+
+    
 
 ]
