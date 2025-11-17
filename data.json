@@ -1,7 +1,7 @@
 [
     {
     "name": "Manolo Habal Habal",
-    "title" : "Habal habal station",
+    "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
     "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6hJA2eJSEBM3WxB6ePYEVCB41HPZjjUgxQ&s",
     "lat" : 8.366211084794523, 
@@ -9,22 +9,22 @@
     "locationType": "Transportation"
     },
     {
-    "name": "CC",
-    "title" : "CC grounds",
-    "description" : "Covered court",
+    "name": "NBSC Habal habal station",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
     "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
-    "lat" : 8.359990848061994, 
-    "lng": 124.8688520443871,
-    "locationType": "Others"
+    "lat" : 8.361344725015554, 
+    "lng":  124.86738960499979,
+    "locationType": "Transportation"
     },
     {
-    "name": "Big Pineapple",
-    "title" : "Wow Big pineapple",
-    "description" : "ITS A BIG PINE APPLE I WANT TO SLICE IT",
+    "name": "Terminal Habal-Habal",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
     "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
-    "lat" : 8.359990848061994, 
-    "lng": 124.8688520443871,
-    "locationType": "Others"
+    "lat" : 8.366461528639613,  
+    "lng": 124.8654576979289,
+    "locationType": "Transportation"
     }
 
 ]
