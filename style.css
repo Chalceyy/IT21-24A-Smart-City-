@@ -16,7 +16,7 @@ h1 {
 
 #Churba .title {
     text-align: left;
-    font-size: 2cap;
+    font-size: 2.5cap;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 10px;
 }
@@ -27,6 +27,7 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
 }
+
 #map {
     width: 75%;
     height: 600px;
