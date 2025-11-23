@@ -39,10 +39,8 @@ h1 {
 
 footer {
     background-color: #f1f1f1;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    position: relative;
-    bottom: 0;
     width: 100%;
 }
