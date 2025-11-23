@@ -24,31 +24,40 @@
             height: auto;
         }
 
-    </style>
-
-
-  <img src="HabalFIndLogo.png" alt="HabalFIndLogo" class="header-logo">
-
-<style>
-
-    .header-logo {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  width: 60px; 
-  height: auto;
-}
-</style>
-
+    </style>    
 </head>
 <body>
+
+<header>
+
+    <img src="HabalFIndLogo.png" alt="HabalFIndLogo" class="header-logo">
+
+    <!-- Title of the page -->
     <h1>Smart City</h1>
+</header>
+
+<style>
+    header {
+        background-color: #8e8f8e;
+        padding: 20px 0;
+        text-align: center;
+    }
+</style>
+
 <section id="Churba">
+
     <h4 class="title">HABAL FIND</h4>
-    <p class="description">Public transportation helps people travel efficiently while reducing traffic and pollution, 
-    and it is often safer because trained drivers and well-maintained vehicles reduce the risk of accidents.</p>
+
+    <p class="description">Habal Find is designed to help users find and book habal-habal (motorcycle taxi) services in the Philippines.
+    It provides real-time tracking of habal-habal drivers, allowing users to see their location    
+    and estimated time of arrival. The app also includes features for booking rides, viewing driver profiles, and making payments securely.
+    Habal Find aims to enhance the convenience and safety of transportation in urban areas, making it easier for users to navigate the city and access reliable transportation options.</p>
+
+ 
 </section>
-    <div id="map"></div>    
+    
+<div id="map"></div>
+
 </body>
 <script>
     function initMap(mapDataUrl){
@@ -129,7 +138,10 @@ s
     });
  </script>
 
-
-
+<footer>
+    <p>© 2025 Smart City Project. All rights reserved.</p>
+    <p>Developed by: Zustin Chalce and Clark</p>
+    <p>Contact: 0917-123-4567 |
+</footer>
 
 </html>
