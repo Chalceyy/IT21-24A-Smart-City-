@@ -90,6 +90,15 @@
     "lng": 124.86814770818812, 
 
     "locationType": "Transportation"
-    }
+    },
 
+    {
+    "name": "Terminal Habal-Habal",
+    "title" : "HabalFind",
+    "description" : "Motorcycle taxi station",
+    "img" : "https://cdn.displate.com/artwork/270x380/2024-11-28/24495ca5-9e91-4a8e-9519-011d3af7eda0.jpg",
+    "lat" :8.367784975862053,
+    "lng": 124.862958823874, 
+    "locationType": "Transportation"
+    }
 ]
