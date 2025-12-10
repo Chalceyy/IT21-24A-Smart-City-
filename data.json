@@ -1,64 +1,70 @@
 [
     {
+    "id":"pin-01",
     "name": "Manolo Habal Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6hJA2eJSEBM3WxB6ePYEVCB41HPZjjUgxQ&s",
+    "img" : "Pictures/1stpic.png",
     "lat" : 8.366211084794523, 
     "lng": 124.86532889209901,
     "locationType": "Transportation"
     },
     {
+    "id":"pin-02",
     "name": "NBSC Habal habal station",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "img" : "Pictures/2ndpic.png",
     "lat" : 8.361344725015554, 
     "lng":  124.86738960499979,
     "locationType": "Transportation"
     },
     {
+    "id":"pin-03",
     "name": "Terminal Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "img" : "Pictures/3rdpic.png",
     "lat" : 8.366461528639613,  
     "lng": 124.8654576979289,
     "locationType": "Transportation"
     },
     {
+    "id":"pin-04",
     "name": "Terminal Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-
-    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "img" : "Pictures/4th.png",
     "lat" : 8.36640502585871,   
     "lng": 124.86453698939394,
     "locationType": "Transportation"
     },
     {
+    "id":"pin-05",
     "name": "Plaza Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "img" : "Pictures/5th.png",
     "lat" : 8.36778122534093,    
     "lng": 124.86557791429232,
     "locationType": "Transportation"
     },
     {
+    "id":"pin-06",
     "name": "Prince Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://pbs.twimg.com/media/EapFDJoWsAAvUAw.jpg",
+    "img" : "Pictures/6th.png",
     "lat" : 8.367337045833757,     
     "lng": 124.86708996492982,
     "locationType": "Transportation"
     },
     {
+    "id":"pin-07",
     "name": "Terminal Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://cdn.displate.com/artwork/270x380/2024-11-28/24495ca5-9e91-4a8e-9519-011d3af7eda0.jpg",
+    "img" : "Pictures/7th.png",
     "lat" : 8.367628854155923,  
     "lng":  124.8666717116643,
     "locationType": "Transportation"
@@ -66,10 +72,11 @@
    
     
     {
+    "id":"pin-08",
     "name": "Terminal Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://cdn.displate.com/artwork/270x380/2024-11-28/24495ca5-9e91-4a8e-9519-011d3af7eda0.jpg",
+    "img" : "Pictures/8th.png",
     "lat" :8.36737550093795, 
     "lng": 124.86814770818812, 
 
@@ -77,10 +84,11 @@
     },
 
     {
+    "id":"pin-09",
     "name": "Terminal Habal-Habal",
     "title" : "HabalFind",
     "description" : "Motorcycle taxi station",
-    "img" : "https://cdn.displate.com/artwork/270x380/2024-11-28/24495ca5-9e91-4a8e-9519-011d3af7eda0.jpg",
+    "img" : "Pictures/9th.png",
     "lat" :8.367784975862053,
     "lng": 124.862958823874, 
     "locationType": "Transportation"
